@@ -1,0 +1,8 @@
+{
+    "name": "@suezenv/sm-data-driver",
+    "version": "1.0.3",
+    "main": "index.js",
+    "dependencies": {
+        "@suezenv/sm-node-utils": "^1.0.0"
+    }
+}
